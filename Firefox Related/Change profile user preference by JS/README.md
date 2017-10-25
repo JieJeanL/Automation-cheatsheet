@@ -1,7 +1,7 @@
 ## Change user preference JS for browser profiles
 To modify default settings/add personal settings in the FF browser, we can do it in its source file.  
 
-For example, we want download files directly from websites without getting the popup to confirm the save/open option.
+For example, we want download files directly from websites without getting the popup to confirm the save/open option.  
 ![dialog](save-file.PNG)
 - Open the FF browser
 - Type ```about:profiles``` as URL and hit __Enter__
