@@ -7,7 +7,7 @@ Say I have an Eclipse project, and I want to know whether a file is edited from 
 
   Enable checkbox _Refresh using native hooks and polling_ and _Refresh on access_
 
-- Replace tabs with spaces
+- Replace tabs with white spaces
 
   `Windows > Preferences > General > Editors > Text Editors`
 
